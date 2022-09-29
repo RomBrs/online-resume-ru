@@ -1,0 +1,306 @@
+[33mcommit 54cfd273279169744fd07a10a10356955eabf21e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7850a34 4b74800
+Author: RomBrs <acrobat78@gmail.com>
+Date:   Fri Sep 30 01:47:10 2022 +0300
+
+    Merge branch 'master' of https://github.com/RomBrs/online-resume
+
+[33mcommit 7850a34e5e8dca6031f45b9ee6b5bdac7d8ce754[m
+Author: RomBrs <acrobat78@gmail.com>
+Date:   Fri Sep 30 01:47:05 2022 +0300
+
+    Check Location
+
+[33mcommit 4b7480054e904a89ede06a06e283dcc6a5418ad7[m
+Author: RomBrs <acrobat78@gmail.com>
+Date:   Fri Sep 30 01:36:13 2022 +0300
+
+    Delete comments yaml
+
+[33mcommit aa14a96a36fbe6baeeb8292e20cc9d89ff4403d9[m
+Author: RomBrs <acrobat78@gmail.com>
+Date:   Fri Sep 30 01:31:00 2022 +0300
+
+    Change comment
+
+[33mcommit 6e1ee6ecaf17d0cf243c74ade408c06a900bfe0f[m
+Author: RomBrs <acrobat78@gmail.com>
+Date:   Fri Sep 30 01:20:35 2022 +0300
+
+    Language + Education
+
+[33mcommit aab74c2e80d2a6a813198841e9edb139b697f4ce[m
+Author: RomBrs <acrobat78@gmail.com>
+Date:   Fri Sep 30 01:05:59 2022 +0300
+
+    Check Location
+
+[33mcommit 8ba6dd80326ad04929ff2290f0167f69da241c6b[m
+Author: RomBrs <acrobat78@gmail.com>
+Date:   Fri Sep 30 00:36:23 2022 +0300
+
+    Changed Job Title
+
+[33mcommit 7675834ec7501d4d45d2934166746ce294d805a6[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Wed Sep 7 23:52:16 2022 +0800
+
+    chore: update fontawesome class and hyperlink color
+
+[33mcommit 1c00c6659f3ffa3469d4b300658a57f74f83040c[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Thu Jun 17 15:30:13 2021 +0800
+
+    chore: lint files
+
+[33mcommit 1bcc4eb57a3e12a8e118e81bdc5f96ede57da391[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Tue Jun 15 20:55:25 2021 +0800
+
+    chore: update style
+
+[33mcommit 6864d7c3767a3e5e92f24a43397efcc108ecc4ef[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Wed Mar 31 11:46:28 2021 +0800
+
+    chore: update _config.yml and lint files
+
+[33mcommit 2bc39260940fd8dbe59dd27ac8653bf2d84dcb7b[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Fri Mar 26 16:07:32 2021 +0800
+
+    chore: hide title for privacy when site not open
+
+[33mcommit ed0f2b43f71b181a885c4e4f02eacf55b36ed3d1[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Thu Mar 25 16:35:42 2021 +0800
+
+    chore: lint files
+
+[33mcommit 02a0573f6f5ef3e92ca4686d34e2086ea0e3ef8b[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Thu Mar 25 16:13:11 2021 +0800
+
+    chore: update README files
+
+[33mcommit 516a74d260a62443ba1676fbc15421ac2a66f91e[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Thu Mar 25 16:12:17 2021 +0800
+
+    chore: add icon to experiences and education
+
+[33mcommit e9d29595d37f38bc983a674c8bdb99dbc230e6c4[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Thu Mar 25 16:11:13 2021 +0800
+
+    chore: add robots.txt config
+
+[33mcommit fa3dda8ada79e45d77ec02fd06379ecc4cf7b9bf[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Fri Mar 19 20:39:56 2021 +0800
+
+    chore: update head.html
+
+[33mcommit fddc4c6bdc962210bbff79c293887f3f40354760[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Thu Mar 18 20:59:48 2021 +0800
+
+    feat: add chartscss for skill levels chart
+
+[33mcommit 01f62ef758c0cd2e9fcd644b9295e5f0e068964c[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Wed Mar 17 00:51:47 2021 +0800
+
+    feat: add certificates and patents modules and update style files
+
+[33mcommit 0ecb6ee20f598ea50669e0d1688ac64df0ae14b5[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sun Mar 14 15:26:43 2021 +0800
+
+    chore: update README
+
+[33mcommit 2b34bcd5c2f13f1f036c4c70e377a4d702631fde[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sun Mar 14 12:54:23 2021 +0800
+
+    chore: update README
+
+[33mcommit 2b92e137e3f922b080a377b34a6c04a6c26ca45a[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sun Mar 14 12:53:57 2021 +0800
+
+    chore: add github actions
+
+[33mcommit 9f546564a9d45ae282f3de425d7f54605a41a2a4[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sun Mar 14 00:20:34 2021 +0800
+
+    chore: add academicons.css and update contact items
+
+[33mcommit 09ee183acafa79ef02e62f950fef0701ad0f073a[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sat Mar 13 21:02:46 2021 +0800
+
+    chore: add cloudflare analytics and change cdnjs to jsdelivr
+
+[33mcommit 4a59d01738d9ba7bc9014885575a4432257f1565[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sun Nov 15 21:43:27 2020 +0800
+
+    chore: remove jekyll environment
+
+[33mcommit 9ff81650e96a64f2988f6a62fcf03f020981acb6[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Wed Jun 3 10:58:19 2020 +0800
+
+    chore: update style
+
+[33mcommit 25d9498ad5fb381956ddc440430c49b6394f4f9e[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sun May 31 11:00:57 2020 +0800
+
+    chore: update style
+
+[33mcommit 1ee64e171154b02eb1e2695365b7b5050a22cc2e[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sat May 23 16:14:56 2020 +0800
+
+    chore: update style
+
+[33mcommit a42299fbd1723586b590ed55eaf9f18239d45d37[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Thu May 21 08:04:45 2020 +0800
+
+    chore: lint files
+
+[33mcommit c8e26378b16617f408b0c5f789eeb67ee5505ce8[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Wed May 20 10:59:28 2020 +0800
+
+    chore: update contact links and fix issues
+
+[33mcommit 53159cf1548169d5f3b2808341e04f729f171fd2[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Tue Aug 27 23:09:10 2019 +0800
+
+    chore: update _sass/_base.scss
+
+[33mcommit ba4147208294f4da52750736b63f9adb38dc2a88[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Tue Jul 30 22:23:11 2019 +0800
+
+    chore: update header style
+
+[33mcommit a379c1e0a0a7ba6a18985da3f8c5c975fd4024ec[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Tue Jul 30 21:02:38 2019 +0800
+
+    chore: remove theme color darken
+
+[33mcommit efb4d77e059edc44618e874fa30900a458653ae9[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Tue Jul 30 20:29:11 2019 +0800
+
+    chore: update fontawesome icons
+
+[33mcommit 8af22408d0f637923e54ab7a6d18f3444db263e0[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Tue Jul 30 20:01:26 2019 +0800
+
+    chore: update print style
+
+[33mcommit d1c914aadac3a7ceb155160a3894bb13a6fcc6fc[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Tue Jul 30 17:02:18 2019 +0800
+
+    chore: update style files
+
+[33mcommit 58f80d1007ba5e98398c15821134f05e799d524d[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Mon Jul 29 18:19:13 2019 +0800
+
+    chore: update wechat contact links
+
+[33mcommit 04e7153c9b406f327bae365fd10a511da3bdc627[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sat Jun 8 19:09:59 2019 +0800
+
+    chore: add README_CN.md
+
+[33mcommit 956d173e4fc0ceab5da3d94f8d65774c3f58b446[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sat Jun 8 17:14:10 2019 +0800
+
+    chore: add wechat and telegram contact
+
+[33mcommit 46bcbd77b464f8f731750e02a38ab87d1126cc93[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sat Apr 20 01:17:49 2019 +0800
+
+    chore: update google analytics code
+
+[33mcommit f5e05db344685d0424061795b2ce5b8e0bc0d09c[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Fri Apr 19 02:28:23 2019 +0800
+
+    chore: update close.html
+
+[33mcommit 6104b5b64a656e74762ed0fd82689d5680eff9d6[m
+Author: Tarrex <tarrex@users.noreply.github.com>
+Date:   Wed Apr 10 00:52:41 2019 +0800
+
+    Update README.md
+
+[33mcommit 991ef2d7901e05e5b258106f6ed6037403bbd2ef[m
+Author: Tarrex <tarrex@users.noreply.github.com>
+Date:   Mon Apr 8 02:32:45 2019 +0800
+
+    Update data.yml
+
+[33mcommit 67a3a7240657a3e454a5395ac9312274cdbade16[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sun Apr 7 00:41:09 2019 +0800
+
+    chore: update resume template style
+
+[33mcommit c4b5b82bc6f6442cf8fd345df3c2ce7536e9540a[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Sat Apr 6 20:22:39 2019 +0800
+
+    chore: update resume template style
+
+[33mcommit b38a9cfa27ff50294b4ba1d7400a9d1807d93737[m
+Author: Tarrex <tarrex@users.noreply.github.com>
+Date:   Sat Apr 6 19:47:24 2019 +0800
+
+    Update data.yml
+
+[33mcommit 70834f18547469b4c903a8e1b7f92a01a3fdad29[m
+Author: Tarrex <tarrex@users.noreply.github.com>
+Date:   Sat Apr 6 18:58:51 2019 +0800
+
+    Update README.md
+
+[33mcommit 3ff915f13fe4b911109b943e1ea42e6ad01cb7a4[m
+Author: Tarrex <tarrex@users.noreply.github.com>
+Date:   Sat Apr 6 18:54:40 2019 +0800
+
+    Update README.md
+
+[33mcommit 258bd0e59822d0b33a97391a20f21ba5835279c4[m
+Author: Tarrex <tarrex@users.noreply.github.com>
+Date:   Fri Apr 5 23:47:46 2019 +0800
+
+    Update README.md
+
+[33mcommit a9f03b358164b5697d93b39210f7fd04a393880f[m
+Author: tarrex <tarrexchen@gmail.com>
+Date:   Fri Apr 5 11:00:43 2019 +0800
+
+    feat: add resume template files
+
+[33mcommit b6afe6adf88aa5b4ec3d89d31e820b9c1290b1d3[m
+Author: Tarrex <tarrex@users.noreply.github.com>
+Date:   Wed Apr 3 01:09:03 2019 +0800
+
+    Initial commit
