@@ -154,12 +154,12 @@ patents:
 languages:
   display: true
   title: Languages
-    items:
-        - idiom: Russian
-          level: Native
+  items:
+      - idiom: Russian
+        level: Native
 
-        - idiom: English
-          level: Fluent
+      - idiom: English
+        level: Fluent
 
 interests:
   display: false
