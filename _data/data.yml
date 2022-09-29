@@ -40,12 +40,6 @@ experiences:
   
   title: Experiences
   
-    # items:
-    #     - role: Senior Data Scientist
-    #       time: 2020.03 - Present
-    #       company: <a href="https://"> ___ </a>
-    #       location: 
-    #       details: Work in Fraud prevention department
   items:
     - role: Backend Developer
       time: 2018.03 - 2019.03
