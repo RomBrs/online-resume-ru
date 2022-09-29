@@ -1,12 +1,12 @@
 basic:
-  name: Foo Bar
+  name: Roman Burmistrov
   title: Data Scientist
   avatar:
     display: true
     path: profile.png
 
 contact:
-  location:
+  location: test
   email: me@example.com
   phone: +86-111-2222-3333
   website: example.com
