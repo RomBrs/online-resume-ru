@@ -98,6 +98,11 @@ small {
         }
     }
 
+    
+    .item {
+        padding-bottom: $spacing-unit / 2;
+    }
+    
     .basic {
         .avatar img {
             float: right;
