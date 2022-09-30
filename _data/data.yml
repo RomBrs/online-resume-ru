@@ -62,6 +62,16 @@ experiences:
         + Second
 
         ...
+      
+    - role: Data Scientist Intern
+      time: 2017.01 - 2018.12
+      company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
+      location: Moscow, Russia
+      details: |
+        Participated in PoC projects in manufacturing (predicting failures), insurance (loss prevention, cross-sell), banking (predictive targeting). Conducted customer tailored demonstrations of machine learning applications.  
+# Обзор функционала внутренних продуктов
+# Сравнение производительности Open Source моделей и моделей SAS
+# identifying customers with higher risk for filing claim; 
 
 projects:
   display: true
