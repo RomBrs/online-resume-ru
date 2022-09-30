@@ -71,7 +71,7 @@ small {
             .company,
             .certificate,
             .university {
-                font-weight: $base-font-weight * 1.75;
+                font-weight: 700;  //$base-font-weight * 1.75;
             }
 
             .role,
@@ -162,7 +162,7 @@ small {
     .lang-level {
         color: $text-grey;
     }
-    
+
     .languages,
     .interests {
         ul {
