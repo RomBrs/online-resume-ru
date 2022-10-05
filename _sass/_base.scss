@@ -107,7 +107,7 @@ small {
         .avatar img {
             float: right;
             max-width: 100px;
-            margin-bottom: $spacing-unit;
+            margin-bottom: 0;  //$spacing-unit;
             border: 0px solid $wrapper-color;
             box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
         }
