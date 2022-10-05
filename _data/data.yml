@@ -39,17 +39,6 @@ experiences:
   display: true
   title: Work Experience
   items:
-    # - role: Backend Developer
-    #   time: 2018.03 - 2019.03
-    #   company: Second Company
-    #   tag:
-    #   location: Beijing
-    #   details: |
-    #     Experience in this company:
-    #     + First
-    #     + Second
-
-    #     ...
     - role: Data Scientist
       time: 2021.04 - 2022.04
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
