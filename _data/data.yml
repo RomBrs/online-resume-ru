@@ -49,24 +49,24 @@ experiences:
         + Counting free parking spaces,
         + Monitoring of the condition of certain parts of the railway carriage.
 
-      - role: Junior Data Scientist
-        time: 2018.12 - 2021.04
-        company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
-        location: Moscow, Russia
-        details: |
-          Participated in PoC project in manufacturing (predicting quality of final product).
-          Participated in computer vision projects:
-          + Determining the grade of plywood,
-          + Clothing categories recognition. 
-          Conducted customer tailored demonstrations.  
+    - role: Junior Data Scientist
+      time: 2018.12 - 2021.04
+      company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
+      location: Moscow, Russia
+      details: |
+        Participated in PoC project in manufacturing (predicting quality of final product).
+        Participated in computer vision projects:
+        + Determining the grade of plywood,
+        + Clothing categories recognition. 
+        Conducted customer tailored demonstrations.  
 
-      - role: Data Scientist Intern
-        time: 2017.01 - 2018.12
-        company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
-        location: Moscow, Russia
-        details: |
-          + Participated in PoC projects in manufacturing (predicting failures), insurance (loss prevention, cross-sell), banking (predictive targeting). 
-          + Conducted customer tailored demonstrations of machine learning applications.  
+    - role: Data Scientist Intern
+      time: 2017.01 - 2018.12
+      company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
+      location: Moscow, Russia
+      details: |
+        + Participated in PoC projects in manufacturing (predicting failures), insurance (loss prevention, cross-sell), banking (predictive targeting). 
+        + Conducted customer tailored demonstrations of machine learning applications.  
 # Обзор функционала внутренних продуктов
 # Сравнение производительности Open Source моделей и моделей SAS
 # identifying customers with higher risk for filing claim; 
