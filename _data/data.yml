@@ -13,14 +13,14 @@ contact:
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: 
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
   linkedin:
   medium:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -63,14 +63,14 @@ experiences:
 
     #     ...
    - role: Data Scientist
-      time: 2021.04 - 2022.04
-      company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
-      location: Moscow, Russia
-      details: |
-        Participated in computer vision projects:
-        + Detecting vehicle damage,
-        + Counting free parking spaces,
-        + Monitoring of the condition of certain parts of the railway carriage.
+     time: 2021.04 - 2022.04
+     company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
+     location: Moscow, Russia
+     details: |
+       Participated in computer vision projects:
+       + Detecting vehicle damage,
+       + Counting free parking spaces,
+       + Monitoring of the condition of certain parts of the railway carriage.
 
     - role: Junior Data Scientist
       time: 2018.12 - 2021.04
