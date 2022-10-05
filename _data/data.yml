@@ -50,46 +50,34 @@ experiences:
     #     + Second
 
     #     ...
-
-    # - role: Backend Developer
-    #   time: 2017.03 - 2018.03
-    #   company: First Company
-    #   tag: Remote, part-time
-    #   location: Beijing
-    #   details: |
-    #     Experience in this company:
-    #     + First
-    #     + Second
-
-    #     ...
-   - role: Data Scientist
-     time: 2021.04 - 2022.04
-     company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
-     location: Moscow, Russia
-     details: |
-       Participated in computer vision projects:
-       + Detecting vehicle damage,
-       + Counting free parking spaces,
-       + Monitoring of the condition of certain parts of the railway carriage.
-
-    - role: Junior Data Scientist
-      time: 2018.12 - 2021.04
+    - role: Data Scientist
+      time: 2021.04 - 2022.04
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Moscow, Russia
       details: |
-        Participated in PoC project in manufacturing (predicting quality of final product).
         Participated in computer vision projects:
-        + Determining the grade of plywood,
-        + Clothing categories recognition. 
-        Conducted customer tailored demonstrations.  
+        + Detecting vehicle damage,
+        + Counting free parking spaces,
+        + Monitoring of the condition of certain parts of the railway carriage.
 
-    - role: Data Scientist Intern
-      time: 2017.01 - 2018.12
-      company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
-      location: Moscow, Russia
-      details: |
-        + Participated in PoC projects in manufacturing (predicting failures), insurance (loss prevention, cross-sell), banking (predictive targeting). 
-        + Conducted customer tailored demonstrations of machine learning applications.  
+      - role: Junior Data Scientist
+        time: 2018.12 - 2021.04
+        company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
+        location: Moscow, Russia
+        details: |
+          Participated in PoC project in manufacturing (predicting quality of final product).
+          Participated in computer vision projects:
+          + Determining the grade of plywood,
+          + Clothing categories recognition. 
+          Conducted customer tailored demonstrations.  
+
+      - role: Data Scientist Intern
+        time: 2017.01 - 2018.12
+        company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
+        location: Moscow, Russia
+        details: |
+          + Participated in PoC projects in manufacturing (predicting failures), insurance (loss prevention, cross-sell), banking (predictive targeting). 
+          + Conducted customer tailored demonstrations of machine learning applications.  
 # Обзор функционала внутренних продуктов
 # Сравнение производительности Open Source моделей и моделей SAS
 # identifying customers with higher risk for filing claim; 
