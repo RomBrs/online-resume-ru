@@ -3,7 +3,7 @@ basic:
   title: Data Scientist
   avatar:
     display: true
-    path: profile.png
+    path: resume_rb.png
 
 contact:
   location:
@@ -26,7 +26,7 @@ contact:
   goodreads:
 
 profile:
-  display: true
+  display: false
   title: Profile
   details: |
     It's your career profile, you can write markdown format text.
@@ -37,44 +37,65 @@ profile:
 
 experiences:
   display: true
-  title: Experiences
+  title: Work Experience
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    # - role: Backend Developer
+    #   time: 2018.03 - 2019.03
+    #   company: Second Company
+    #   tag:
+    #   location: Beijing
+    #   details: |
+    #     Experience in this company:
+    #     + First
+    #     + Second
+
+    #     ...
+
+    # - role: Backend Developer
+    #   time: 2017.03 - 2018.03
+    #   company: First Company
+    #   tag: Remote, part-time
+    #   location: Beijing
+    #   details: |
+    #     Experience in this company:
+    #     + First
+    #     + Second
+
+    #     ...
+   - role: Data Scientist
+      time: 2021.04 - 2022.04
+      company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
+      location: Moscow, Russia
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Participated in computer vision projects:
+        + Detecting vehicle damage,
+        + Counting free parking spaces,
+        + Monitoring of the condition of certain parts of the railway carriage.
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Junior Data Scientist
+      time: 2018.12 - 2021.04
+      company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
+      location: Moscow, Russia
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Participated in PoC project in manufacturing (predicting quality of final product).
+        Participated in computer vision projects:
+        + Determining the grade of plywood,
+        + Clothing categories recognition. 
+        Conducted customer tailored demonstrations.  
 
-        ...
-      
     - role: Data Scientist Intern
       time: 2017.01 - 2018.12
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Moscow, Russia
       details: |
-        Participated in PoC projects in manufacturing (predicting failures), insurance (loss prevention, cross-sell), banking (predictive targeting). Conducted customer tailored demonstrations of machine learning applications.  
+        + Participated in PoC projects in manufacturing (predicting failures), insurance (loss prevention, cross-sell), banking (predictive targeting). 
+        + Conducted customer tailored demonstrations of machine learning applications.  
 # Обзор функционала внутренних продуктов
 # Сравнение производительности Open Source моделей и моделей SAS
 # identifying customers with higher risk for filing claim; 
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -94,19 +115,19 @@ skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
+    + Data Science: Python, Machine Learning, Deep Learning, Mathematics, Statistics, Scikit-learn, Numpy, Pandas, PyTorch, CVAT, SAS VDMML
+    + Backend: Docker SQL, Multiprocessing, Linux, Git
+    + Programming languages: Python, Base  SAS
+# GoogleCloud, Flask, Celery, Pika, RabbitMQ, Alogitms and DataStructures, TelegramBot, Neo4j,
+# Keras, Tf
 
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
+  # levels:
+  #   - name: Skill A
+  #     level: 90
+  #   - name: Skill B
+  #     level: 80
+  #   - name: Skill C
+  #     level: 70
 
 education:
   display: true
