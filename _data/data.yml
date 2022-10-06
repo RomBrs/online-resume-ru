@@ -96,7 +96,7 @@ skills:
   title: Skills
   details: |
     + Data Science: Python, Machine Learning, Deep Learning, Mathematics, Statistics, PyTorch, CVAT, Scikit-learn, Numpy, Pandas, SAS VDMML
-    + Backend: Docker SQL, Multiprocessing, Linux, Git
+    + Backend: Docker, SQL, Multiprocessing, Linux, Git
     + Programming languages: Python, Base  SAS
 # GoogleCloud, Flask, Celery, Pika, RabbitMQ, Alogitms and DataStructures, TelegramBot, Neo4j,
 # Keras, Tf
