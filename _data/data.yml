@@ -40,7 +40,7 @@ experiences:
   display: true
   title: Опыт работы
   items:
-    - role: Консультант
+    - role: Data Scientist
       time: 2021.04 - 2022.04
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Москва
@@ -50,7 +50,7 @@ experiences:
        + Разработал модель по обнаружению повреждений на автомобиле на основе семантической сегментации и в тесном взаимодействии с клиентом подготовил стратегию по внедрению и улучшению разработанной модели.
        + Исследовал возможность обнаружения краж в магазине на основе детекции, трэкинга и детекции ключевых точек.
 
-    - role: Младший консультант
+    - role: Junior Data Scientist
       time: 2018.12 - 2021.04
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Москва
@@ -59,7 +59,7 @@ experiences:
        + Обучал модели computer vision для proof of concept (PoC) проектов в промышленности по определению крупности руды и сорта фанеры.
        + Проводил лекции по машинному обучению и презентации для клиентов.
 
-    - role: Стажер
+    - role: Data Scientist Intern
       time: 2017.01 - 2018.12
       company: <a href="https://www.sas.com/">SAS Institute LLC (Russia)</a>
       location: Москва
