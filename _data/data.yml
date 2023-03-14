@@ -1,7 +1,7 @@
 basic:
   name: Роман Бурмистров
   title: Data Scientist / Computer Vision Engineer
-  place: Белград, Сербия
+  place: 
   avatar:
     display: false
     path: resume_rb.png
